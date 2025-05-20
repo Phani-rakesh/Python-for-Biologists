@@ -1,0 +1,6 @@
+Name,Math,Science,English,History
+Alice,88,92,85,80
+Bob,76,85,78,72
+Charlie,95,88,89,84
+David,67,70,74,69
+Esha,90,95,91,88
